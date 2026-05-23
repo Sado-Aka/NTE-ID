@@ -1,4 +1,4 @@
-# NTE Bahasa Indonesia — Neverness to Everness 1.3
+# NTE Bahasa Indonesia — Neverness to Everness 1.0
 
 > Patch Bahasa Indonesia tidak resmi untuk game **Neverness to Everness** (CN build).  
 
