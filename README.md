@@ -2,7 +2,7 @@
 
 > Patch Bahasa Indonesia tidak resmi untuk game **Neverness to Everness** (CN build).  
 
-[![Discord](https://img.shields.io/badge/Discord-Gabung%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rhUKsb7V8r)
+[![Discord](https://img.shields.io/badge/Discord-Join%20discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rhUKsb7V8r)
 
 ---
 
